@@ -41,13 +41,6 @@ This project was developed as part of a **frontend skill assessment**. It demons
 
 ---
 
-## 📷 Screenshots
-
-> *You can add screenshots here by uploading images and using the Markdown format:*  
-> `![Screenshot](link-to-image)`
-
----
-
 ## 📬 Contact
 
 **Name:** Mo Akthar  
