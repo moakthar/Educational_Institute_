@@ -45,7 +45,6 @@ This project was developed as part of a **frontend skill assessment**. It demons
 
 **Name:** Mo Akthar  
 **GitHub:** [@moakthar](https://github.com/moakthar)  
-**Live Site:** [https://educational-einstitute.vercel.app/](https://educational-einstitute.vercel.app/)
 
 ---
 
